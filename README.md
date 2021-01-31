@@ -1,0 +1,2 @@
+# ChineseTextFooler
+TextFooler for Chinese
